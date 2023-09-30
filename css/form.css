@@ -1,0 +1,35 @@
+.form__labelText{
+
+    width: 150px;
+    display: inline-block;
+}
+
+.form__field{
+    border: 1px solid green;
+    padding: 5px;
+    max-width: 300px;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.form__field:invalid{
+    background-color: rgb(255, 190, 203);
+
+}
+
+.form__paragraph{
+    padding-left: 30px;
+}
+
+.form__paragraph-center{
+    text-align: center;
+}
+
+.form__button{
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: large;
+    font-weight: bold;
+    width: 80%;
+}

@@ -1,0 +1,14 @@
+.cointainer{
+    background-color: rgba(98, 81, 136, 0.521);
+    margin: 50px 1px 50px 1px;
+    padding: 50px 10px 50px 10px;
+    border: 2px solid rgb(29, 29, 29);
+    border-radius: 5px;
+
+}
+
+.container__paragraph{
+    text-align: center;
+    font-size: large;
+    padding-top: 20px;
+}
