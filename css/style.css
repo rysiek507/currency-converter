@@ -16,5 +16,6 @@ html {
 
 .head{
     text-align: center;
-    color: oldlace
+    color: oldlace;
+    text-shadow: 0px 0px 6px rgba(0, 0, 0, 1);
 }
