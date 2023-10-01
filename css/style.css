@@ -7,7 +7,8 @@ html {
 }
 
 .body{
-    background-image: url("/images/bg.jpg");
+    background-image: url("../images/bg.jpg");
+    background-size: 100%;
     max-width: 600px;
     margin: auto;
     font-family: 'Geologica', sans-serif;
@@ -15,4 +16,5 @@ html {
 
 .head{
     text-align: center;
+    color: oldlace
 }
