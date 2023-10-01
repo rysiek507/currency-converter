@@ -7,6 +7,7 @@ html {
 }
 
 .body{
+    background-image: url("/images/bg.jpg");
     max-width: 600px;
     margin: auto;
     font-family: 'Geologica', sans-serif;
