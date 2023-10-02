@@ -3,7 +3,7 @@ const countElement = document.querySelector(".js-count");
 const currencyElement = document.querySelector(".js-currency");
 const resultElement = document.querySelector(".js-result");
 
-formElement.addEventListener("submit", (event) =>{
+formElement.addEventListener("input", (event) =>{
     
     event.preventDefault();
     if(currencyElement.value == "eur"){
