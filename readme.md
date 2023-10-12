@@ -1,5 +1,5 @@
-# Kalkulator walut
+# Currency converter
 
-jest to minimalistyczne narzędzie służące do przeliczania walut euro oraz dolar amerykański na ich wartość w złotówkach
+it's a minimalist tool used to convert Euro and US Dollar currency into their value in Polish Zloty
 
 ## [DEMO](https://rysiek507.github.io/currency-converter/)
