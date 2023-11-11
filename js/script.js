@@ -1,9 +1,8 @@
-const formElement = document.querySelector(".js-form");
-const countElement = document.querySelector(".js-count");
-const currencyElement = document.querySelector(".js-currency");
-const resultElement = document.querySelector(".js-result");
-
 function count() {
+  const formElement = document.querySelector(".js-form");
+  const countElement = document.querySelector(".js-count");
+  const currencyElement = document.querySelector(".js-currency");
+  const resultElement = document.querySelector(".js-result");
   formElement.addEventListener("submit", (event) => {
     event.preventDefault();
     switch (currencyElement.value) {
